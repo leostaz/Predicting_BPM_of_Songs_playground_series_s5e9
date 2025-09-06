@@ -26,3 +26,5 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 Links:
 
 https://www.kaggle.com/competitions/playground-series-s5e9
+
+https://www.kaggle.com/code/les1781/predicting-bpm-of-songs-playground-series-s5e9
